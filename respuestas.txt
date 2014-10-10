@@ -1,1 +1,6 @@
-El resultado es el mismo, pero en el intérprete de ruby sólo puedo ejecutarlo una vez
+21. ¿Cuáles son las diferencias entre la ejecución del programa "Hola Mundo" con el intérprete de Ruby (ruby helloWorld.ssrb) y el intérprete interactivo del ejercicio anterior? 
+El resultado es el mismo, pero en el intérprete de ruby sólo puedo ejecutarlo una vez.
+
+27. ¿Cuáles son las diferencias entre la ejecución del programa "Hola Mundo" con el intérprete interactivo y con pry?
+
+
