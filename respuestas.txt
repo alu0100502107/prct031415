@@ -1,0 +1,1 @@
+El resultado es el mismo, pero en el intérprete de ruby sólo puedo ejecutarlo una vez
